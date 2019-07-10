@@ -1,4 +1,4 @@
 
 second git file
-made changes to push
+made changes to pull
 
